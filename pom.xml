@@ -17,7 +17,7 @@
   <properties>
     <jenkins.version>2.112</jenkins.version>
     <java.level>8</java.level>
-    <configuration-as-code.version>1.14</configuration-as-code.version>
+    <configuration-as-code.version>1.55.1</configuration-as-code.version>
   </properties>
 
   <name>EC2 Fleet Jenkins Plugin</name>
